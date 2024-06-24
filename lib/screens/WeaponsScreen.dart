@@ -15,8 +15,8 @@ class _WeaponsScreenState extends State<WeaponsScreen> {
       appBar: AppBar(
         title: Center(
           child: const Text(
-            'WEAPONS',
-            style: TextStyle(color: Colors.white),
+            'WEAPON',
+            style: TextStyle(color: Colors.black12),
           ),
         ),
         backgroundColor: const Color(0xFF323232),
